@@ -1,5 +1,7 @@
-Body{
+body{
 text-align:center;
+background:rgb(252, 82, 4);
+font-family: 'Quintessential', cursive;
 
 }
 #familybook{
@@ -10,4 +12,8 @@ width:50px;
 h1{
     font-weight:bold ;
    
+}
+#b3{
+    background-color:blue;
+    color:white;
 }
